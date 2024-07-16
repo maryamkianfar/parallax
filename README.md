@@ -31,6 +31,7 @@ Check out the **[demo](https://matthew.wagerfield.com/parallax/)** to see it in 
 
 ### 1.1 a) Using the CDN
 
+
 1. Add `<script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>` to your markup
 2. Done!
 
